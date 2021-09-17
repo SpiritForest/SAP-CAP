@@ -1,1 +1,1 @@
-using RiskService as service from '../../srv/risk-service';
+using RiskService as service from '../../srv/risk-service'; 
